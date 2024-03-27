@@ -1,0 +1,1 @@
+from .CoupleGNN import CoupledGNN
